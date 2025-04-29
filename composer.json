@@ -1,6 +1,7 @@
 {
   "name": "c588/yii2-jsonrpc",
   "description": "Yii2 JSON-RPC server implementation",
+  "license": "BSD 2-Clause",
   "keywords": ["yii2", "bootstrap", "json-rpc"],
   "type": "yii2-extension",
   "authors": [
