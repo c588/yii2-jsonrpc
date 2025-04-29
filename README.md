@@ -111,4 +111,4 @@ Now this is how calls and responses will look like:
 Author: George Shestayev george.shestayev@gmail.com
 
 # FIXED
-change `JsonSerializable::jsonSerialize()` to `JsonSerializable::jsonSerialize(): mixed`
+change `JsonSerializable::jsonSerialize()` to `JsonSerializable::jsonSerialize(): mixed` so it can be used in php8.1 project in strict type.
